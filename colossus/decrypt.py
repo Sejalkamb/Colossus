@@ -1,14 +1,3 @@
-"""
-
-This python file is a part of an open-source
-project Colossus (https://github.com/Kiinitix/Colossus).
-
-This file is made for the end user to be used for
-decryption process as part of hybrid-cryptography
-implementation used in Colossus.
-
-"""
-
 import secrets
 import random
 import sys
